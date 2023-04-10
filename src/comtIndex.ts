@@ -1,5 +1,5 @@
-import { Metadata } from "../../spec";
-import { TileMatrix } from "../../spec/types/tileMatrix";
+import { Metadata } from "@com-tiles/spec";
+import { TileMatrix } from "@com-tiles/spec/types/tileMatrix";
 
 type TileMatrixLimits = TileMatrix["tileMatrixLimits"];
 

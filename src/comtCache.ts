@@ -1,5 +1,5 @@
 import pako from "pako";
-import { Metadata } from "../../spec";
+import { Metadata } from "@com-tiles/spec";
 import ComtIndex, { FragmentRange } from "./comtIndex";
 import LruCache from "./lruCache";
 import { convertUInt40LEToNumber, Optional } from "./utils";

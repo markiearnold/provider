@@ -19,6 +19,7 @@
     "format": "prettier --write \"**/*.ts\""
   },
   "dependencies": {
+    "@com-tiles/spec": "git+ssh://git@github.com:markiearnold/spec.git",
     "pako": "^2.0.4"
   },
   "devDependencies": {
